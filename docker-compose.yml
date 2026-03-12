@@ -1,0 +1,7 @@
+services:
+  rbc-landing:
+    build: ./site
+    container_name: rbc-landing
+    ports:
+      - "4077:80"
+    restart: unless-stopped
