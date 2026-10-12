@@ -3,5 +3,8 @@ services:
     build: ./site
     container_name: rbc-landing
     ports:
-      - "4077:80"
+      - "4077:3000"
+    environment:
+      ENQUIRY_WEBHOOK_URL: ${ENQUIRY_WEBHOOK_URL:-}
+      ENQUIRY_WEBHOOK_TOKEN: ${ENQUIRY_WEBHOOK_TOKEN:-}
     restart: unless-stopped

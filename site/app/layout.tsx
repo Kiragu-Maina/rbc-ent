@@ -1,0 +1,6 @@
+import type {Metadata} from 'next';
+import {Header,Footer} from '@/components/site';
+import {company} from '@/lib/content';
+import './globals.css';
+export const metadata:Metadata={metadataBase:new URL(company.url),title:{default:'RBC Enterprise | Complex challenges. Engineered solutions.',template:'%s | RBC Enterprise'},description:'Enterprise software, data, AI and cloud engineering. RBC Enterprise designs, integrates and modernises business systems from Nairobi, Kenya.',alternates:{canonical:'/'},openGraph:{type:'website',siteName:company.shortName,title:'RBC Enterprise — Engineered solutions',description:'Engineering the systems behind better business.',images:[{url:'/og-image.png',width:1200,height:630,alt:'RBC Enterprise — Complex challenges. Engineered solutions.'}]},icons:{icon:'/rbc-logo.png'}};
+export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="en"><body><a className="skip-link" href="#main">Skip to content</a><Header/>{children}<Footer/><script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify({'@context':'https://schema.org','@type':'Organization',name:company.name,url:company.url,email:company.email,foundingDate:company.founded,address:{'@type':'PostalAddress',addressLocality:'Nairobi',addressCountry:'KE'}})}}/></body></html>;}
