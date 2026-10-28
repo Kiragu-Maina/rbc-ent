@@ -1,0 +1,432 @@
+RBC-007B LOGO AUDIT
+85 technologies; 80 visual assets; 5 named exceptions.
+Sources are asset provenance, not evidence of RBC delivery experience or vendor partnership.
+All trademarks remain the property of their respective owners.
+Simple Icons package: https://github.com/simple-icons/simple-icons (CC0 package; individual trademark rights retained).
+Homarr Dashboard Icons: https://github.com/homarr-labs/dashboard-icons (individual brand rights retained).
+OpenTelemetry mark: CC-BY-4.0; source recorded below.
+
+Microsoft Dynamics 365
+Asset: /technologies/products/microsoft-dynamics-365.svg
+Source: https://raw.githubusercontent.com/tomkiljo/ms-icons/main/public/icons/Dynamics_365_Icons_scalable/Dynamics%20365%20Product%20Family%20Icon/Dynamics365_scalable.svg
+Audit: Public product-identification asset; original proportions retained. Trademark rights retained.
+
+SAP
+Asset: /technologies/simple-icons/sap.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sap.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Oracle
+Asset: /technologies/dashboard-icons/oracle.svg
+Source: https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oracle.svg
+Audit: Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership.
+
+Odoo
+Asset: /technologies/simple-icons/odoo.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/odoo.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Zoho
+Asset: /technologies/simple-icons/zoho.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/zoho.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Salesforce
+Asset: /technologies/dashboard-icons/salesforce.svg
+Source: https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/salesforce.svg
+Audit: Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership.
+
+Microsoft Power Platform
+Asset: /technologies/products/microsoft-power-platform.svg
+Source: https://raw.githubusercontent.com/tomkiljo/ms-icons/main/public/icons/Power_Platform_scalable/PowerPlatform_scalable.svg
+Audit: Public product-identification asset; original proportions retained. Trademark rights retained.
+
+Shopify
+Asset: /technologies/simple-icons/shopify.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/shopify.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Adobe Commerce
+Asset: /technologies/products/adobe-commerce.svg
+Source: https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/adobe.svg
+Audit: Adobe corporate mark with explicit Adobe Commerce text. Adobe retired the distinct Magento Commerce application logo; this is not a new product-specific mark.
+
+ERPNext
+Asset: /technologies/simple-icons/erpnext.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/erpnext.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Frappe Framework
+Asset: /technologies/simple-icons/frappe.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/frappe.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Odoo Community
+Asset: /technologies/simple-icons/odoo.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/odoo.svg
+Audit: Authentic parent platform/vendor mark accompanied by the exact requested product or edition name.
+
+PostgreSQL
+Asset: /technologies/simple-icons/postgresql.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Directus
+Asset: /technologies/simple-icons/directus.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/directus.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Strapi
+Asset: /technologies/simple-icons/strapi.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/strapi.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Medusa
+Asset: /technologies/simple-icons/medusa.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medusa.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+WooCommerce
+Asset: /technologies/simple-icons/woocommerce.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/woocommerce.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+OpenAI
+Asset: /technologies/dashboard-icons/openai.svg
+Source: https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openai.svg
+Audit: Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership.
+
+Anthropic
+Asset: /technologies/simple-icons/anthropic.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Microsoft Fabric
+Asset: /technologies/products/microsoft-fabric.svg
+Source: https://raw.githubusercontent.com/tomkiljo/ms-icons/main/public/icons/Azure_UX_Patterns_icons/microsoft-fabric.svg
+Audit: Public product-identification asset; original proportions retained. Trademark rights retained.
+
+Power BI
+Asset: /technologies/dashboard-icons/powerbi.svg
+Source: https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/powerbi.svg
+Audit: Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership.
+
+Azure AI
+Asset: /technologies/products/azure-ai.svg
+Source: https://raw.githubusercontent.com/tomkiljo/ms-icons/main/public/icons/Azure_Public_Service_Icons/Icons/ai%20+%20machine%20learning/10162-icon-service-Cognitive-Services.svg
+Audit: Public product-identification asset; original proportions retained. Trademark rights retained.
+
+Google Cloud AI
+Asset: /technologies/simple-icons/googlecloud.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecloud.svg
+Audit: Authentic parent platform/vendor mark accompanied by the exact requested product or edition name.
+
+Databricks
+Asset: /technologies/simple-icons/databricks.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Snowflake
+Asset: /technologies/simple-icons/snowflake.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+NVIDIA AI Enterprise
+Asset: /technologies/simple-icons/nvidia.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nvidia.svg
+Audit: Authentic parent platform/vendor mark accompanied by the exact requested product or edition name.
+
+Apache Airflow
+Asset: /technologies/apache/airflow.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheairflow.svg
+Audit: Authentic official project asset. Published automatic permission is for linked use; unlinked presentation requires RBC rights review.
+
+dbt Core
+Asset: /technologies/products/dbt-core.svg
+Source: https://raw.githubusercontent.com/dbt-labs/docs.getdbt.com/current/website/static/img/dbt-logo.svg
+Audit: Public product-identification asset; original proportions retained. Trademark rights retained.
+
+Apache Spark
+Asset: /technologies/apache/spark.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachespark.svg
+Audit: Authentic official project asset. Published automatic permission is for linked use; unlinked presentation requires RBC rights review.
+
+Apache Superset
+Asset: /technologies/simple-icons/apachesuperset.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachesuperset.svg
+Audit: Authentic official project asset. Published automatic permission is for linked use; unlinked presentation requires RBC rights review.
+
+Metabase
+Asset: /technologies/simple-icons/metabase.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metabase.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+MLflow
+Asset: /technologies/simple-icons/mlflow.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mlflow.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+pgvector
+Asset: None
+Source: https://github.com/pgvector/pgvector
+Audit: Official project repository and the searched icon packages did not provide a distinct pgvector mark. PostgreSQL logo was not substituted.
+
+Qdrant
+Asset: /technologies/simple-icons/qdrant.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qdrant.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Haystack
+Asset: /technologies/simple-icons/haystack.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/haystack.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+LangChain
+Asset: /technologies/simple-icons/langchain.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+LlamaIndex
+Asset: /technologies/products/llamaindex.png
+Source: https://raw.githubusercontent.com/run-llama/llama_index/main/docs/src/content/docs/framework/_static/assets/LlamaLogoBrowserTab.png
+Audit: Public product-identification asset; original proportions retained. Trademark rights retained.
+
+Ollama
+Asset: /technologies/simple-icons/ollama.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Microsoft Azure
+Asset: /technologies/dashboard-icons/microsoft-azure.svg
+Source: https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-azure.svg
+Audit: Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership.
+
+AWS
+Asset: /technologies/dashboard-icons/amazon-web-services.svg
+Source: https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/amazon-web-services.svg
+Audit: Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership.
+
+Google Cloud
+Asset: /technologies/simple-icons/googlecloud.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecloud.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Cisco
+Asset: /technologies/simple-icons/cisco.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cisco.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+HPE
+Asset: /technologies/dashboard-icons/hpe.svg
+Source: https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hpe.svg
+Audit: Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership.
+
+Dell Technologies
+Asset: /technologies/simple-icons/dell.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dell.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Lenovo
+Asset: /technologies/simple-icons/lenovo.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/lenovo.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+VMware/Broadcom
+Asset: /technologies/simple-icons/vmware.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vmware.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Nutanix
+Asset: /technologies/simple-icons/nutanix.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nutanix.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+NVIDIA
+Asset: /technologies/simple-icons/nvidia.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nvidia.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Linux
+Asset: /technologies/simple-icons/linux.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Proxmox VE
+Asset: /technologies/simple-icons/proxmox.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/proxmox.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+OpenStack
+Asset: /technologies/simple-icons/openstack.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openstack.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Kubernetes
+Asset: /technologies/simple-icons/kubernetes.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kubernetes.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Docker
+Asset: /technologies/simple-icons/docker.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+OpenTofu
+Asset: /technologies/simple-icons/opentofu.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opentofu.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Ansible
+Asset: /technologies/simple-icons/ansible.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ansible.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Prometheus
+Asset: /technologies/simple-icons/prometheus.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/prometheus.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Grafana
+Asset: /technologies/simple-icons/grafana.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/grafana.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+OpenTelemetry
+Asset: /technologies/simple-icons/opentelemetry.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opentelemetry.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Ceph
+Asset: /technologies/simple-icons/ceph.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ceph.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Fortinet
+Asset: /technologies/simple-icons/fortinet.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fortinet.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Cisco Security
+Asset: /technologies/simple-icons/cisco.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cisco.svg
+Audit: Authentic parent platform/vendor mark accompanied by the exact requested product or edition name.
+
+Microsoft Defender
+Asset: /technologies/dashboard-icons/microsoft-defender.svg
+Source: https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-defender.svg
+Audit: Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership.
+
+Microsoft Entra
+Asset: /technologies/dashboard-icons/entra-id.svg
+Source: https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/entra-id.svg
+Audit: Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership.
+
+Sophos
+Asset: /technologies/dashboard-icons/sophos.svg
+Source: https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sophos.svg
+Audit: Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership.
+
+Palo Alto Networks
+Asset: /technologies/simple-icons/paloaltonetworks.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/paloaltonetworks.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+CrowdStrike
+Asset: /technologies/dashboard-icons/crowdstrike.svg
+Source: https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/crowdstrike.svg
+Audit: Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership.
+
+Veeam
+Asset: /technologies/simple-icons/veeam.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/veeam.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Cloudflare
+Asset: /technologies/simple-icons/cloudflare.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cloudflare.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Tenable
+Asset: /technologies/dashboard-icons/tenable.svg
+Source: https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tenable.svg
+Audit: Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership.
+
+Wazuh
+Asset: /technologies/dashboard-icons/wazuh.svg
+Source: https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wazuh.svg
+Audit: Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership.
+
+Keycloak
+Asset: /technologies/simple-icons/keycloak.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/keycloak.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+OpenSearch
+Asset: /technologies/simple-icons/opensearch.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opensearch.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Security Onion
+Asset: /technologies/dashboard-icons/security-onion.svg
+Source: https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/security-onion.svg
+Audit: Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership.
+
+Suricata
+Asset: None
+Source: https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-horiz-R.png
+Audit: Official logo URL discovered, but download returned HTML rather than image data; branding page also requests permission. No access controls bypassed.
+
+Zeek
+Asset: /technologies/products/zeek.png
+Source: https://zeek.org/wp-content/themes/zeek/resources/images/logo.png
+Audit: Public product-identification asset; original proportions retained. Trademark rights retained.
+
+OWASP ZAP
+Asset: /technologies/simple-icons/zap.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/zap.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Trivy
+Asset: /technologies/simple-icons/trivy.svg
+Source: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/trivy.svg
+Audit: Product identification only; no endorsement or partnership claim.
+
+Greenbone/OpenVAS
+Asset: /technologies/dashboard-icons/openvas.svg
+Source: https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openvas.svg
+Audit: Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership.
+
+Velociraptor
+Asset: /technologies/products/velociraptor.svg
+Source: https://docs.velociraptor.app/images/logo_bare_small.svg
+Audit: Public product-identification asset; original proportions retained. Trademark rights retained.
+
+TOGAF
+Asset: /technologies/products/togaf.png
+Source: https://www.opengroup.org/sites/default/files/togaf92-logo.png
+Audit: Public product-identification asset; original proportions retained. Trademark rights retained.
+
+ArchiMate
+Asset: None
+Source: https://www.opengroup.org/archimate-forum
+Audit: Official page assets inspected. Available banner/1-pixel asset is not a usable standalone mark. Certification badges and the unrelated Archi tool logo were excluded.
+
+COBIT
+Asset: None
+Source: https://www.isaca.org/about-us/cobit-usage-guidelines
+Audit: ISACA explicitly requires prior written permission for COBIT logos in marketing. No certification badge or unrelated COBIT-named product substituted.
+
+ITIL
+Asset: /technologies/products/itil.svg
+Source: https://www.peoplecert.org/-/media/folders-reorganized/images/peoplecert-logos-official/product-brand-logos/itil/itil-logo-svg.svg
+Audit: Public product-identification asset; original proportions retained. Trademark rights retained.
+
+BPMN
+Asset: /technologies/products/bpmn.svg
+Source: https://www.omg.org/images/logos/BPMN-logo.svg
+Audit: Official public product mark; trademark rights retained.
+
+C4 modelling
+Asset: None
+Source: https://c4model.com/
+Audit: Official site and icon packages inspected; no distinct authentic framework logo located. Book cover and architecture diagrams were not treated as logos.

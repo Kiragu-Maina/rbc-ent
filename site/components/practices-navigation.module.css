@@ -1,0 +1,16 @@
+.root{position:relative;font-size:13px}
+.trigger{display:flex;align-items:center;gap:12px;padding:15px 0;list-style:none;cursor:pointer}
+.trigger::-webkit-details-marker{display:none}
+.trigger:focus-visible{outline:3px solid #577afa;outline-offset:5px}
+.chevron{width:6px;height:6px;border-right:1px solid;border-bottom:1px solid;transform:rotate(45deg);transition:transform .2s}
+.root[open] .chevron{transform:rotate(225deg)}
+.panel{position:absolute;top:calc(100% + 20px);left:-24px;width:350px;max-width:calc(100vw - 48px);margin:0;padding:12px;list-style:none;background:var(--paper);border:1px solid var(--line);box-shadow:0 12px 28px #15171d0d;max-height:calc(100dvh - 110px);overflow-y:auto}
+.panel a{display:block;padding:13px 12px;line-height:1.5;overflow-wrap:break-word}
+.panel a:hover,.panel a:focus-visible{color:var(--blue);background:#eeefec}
+.panel a:focus-visible{outline-offset:-3px}
+.mobile .trigger{font-size:40px;letter-spacing:-.055em;padding:25px 0;border-bottom:1px solid var(--line);gap:20px}
+.mobile .trigger small{font-size:10px;color:#7a8494;letter-spacing:0}
+.mobile .chevron{margin-left:auto;margin-right:5px;width:9px;height:9px;flex-shrink:0}
+.mobile .panel{position:static;width:100%;max-width:none;max-height:none;padding:10px 0 10px 30px;border:0;border-bottom:1px solid var(--line);box-shadow:none}
+.mobile .panel a{padding:12px 0;font-size:15px}
+@media(prefers-reduced-motion:reduce){.chevron{transition:none}}

@@ -1,0 +1,1708 @@
+{
+  "total": 85,
+  "displayed": 80,
+  "exceptions": 5,
+  "technologies": [
+    {
+      "name": "Microsoft Dynamics 365",
+      "category": "commercial",
+      "practices": [
+        "software-engineering"
+      ],
+      "logoPath": "/technologies/products/microsoft-dynamics-365.svg",
+      "logoSource": "https://raw.githubusercontent.com/tomkiljo/ms-icons/main/public/icons/Dynamics_365_Icons_scalable/Dynamics%20365%20Product%20Family%20Icon/Dynamics365_scalable.svg",
+      "assetVerificationStatus": "authentic-public-source",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://raw.githubusercontent.com/tomkiljo/ms-icons/main/public/icons/Dynamics_365_Icons_scalable/Dynamics%20365%20Product%20Family%20Icon/Dynamics365_scalable.svg",
+        "note": "Public product-identification asset; original proportions retained. Trademark rights retained."
+      },
+      "bytes": 3197,
+      "sha256": "49b5b6959909a09af2091574658dbf6276af1c04b95846b1aadf3e8389ddb20e"
+    },
+    {
+      "name": "SAP",
+      "category": "commercial",
+      "practices": [
+        "software-engineering"
+      ],
+      "logoPath": "/technologies/simple-icons/sap.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sap.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.sap.com",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 1027,
+      "sha256": "79127bd0cdb41e5940ddbe895da58c4fe1fb6a912a7178f4bb4e108fb39c8758"
+    },
+    {
+      "name": "Oracle",
+      "category": "commercial",
+      "practices": [
+        "software-engineering"
+      ],
+      "logoPath": "/technologies/dashboard-icons/oracle.svg",
+      "logoSource": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oracle.svg",
+      "assetVerificationStatus": "authentic-public-package-asset",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oracle.svg",
+        "package": "Homarr Dashboard Icons",
+        "note": "Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership."
+      },
+      "bytes": 166,
+      "sha256": "5643dc19834575e072fee8d691d240adc667b1fd1509be86d6712373155fb3c0"
+    },
+    {
+      "name": "Odoo",
+      "category": "commercial",
+      "practices": [
+        "software-engineering"
+      ],
+      "logoPath": "/technologies/simple-icons/odoo.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/odoo.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.odoo.com/page/brand-assets",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": "https://www.odoo.com/page/brand-assets",
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 1381,
+      "sha256": "2690d23a9f3c287faa2fb08a7bd11002e309820e5a8c3ff53c0a77ab1081b50c"
+    },
+    {
+      "name": "Zoho",
+      "category": "commercial",
+      "practices": [
+        "software-engineering"
+      ],
+      "logoPath": "/technologies/simple-icons/zoho.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/zoho.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.zoho.com/branding",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 2636,
+      "sha256": "6571537c1ebb1c0cbea06d94c403d7e4e0685499c963996b559485d5aa013b9b"
+    },
+    {
+      "name": "Salesforce",
+      "category": "commercial",
+      "practices": [
+        "software-engineering"
+      ],
+      "logoPath": "/technologies/dashboard-icons/salesforce.svg",
+      "logoSource": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/salesforce.svg",
+      "assetVerificationStatus": "authentic-public-package-asset",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/salesforce.svg",
+        "package": "Homarr Dashboard Icons",
+        "note": "Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership."
+      },
+      "bytes": 7370,
+      "sha256": "6356430254ecece9e747a5505176caeb212e991240b1dd905486455b66db86b5"
+    },
+    {
+      "name": "Microsoft Power Platform",
+      "category": "commercial",
+      "practices": [
+        "software-engineering"
+      ],
+      "logoPath": "/technologies/products/microsoft-power-platform.svg",
+      "logoSource": "https://raw.githubusercontent.com/tomkiljo/ms-icons/main/public/icons/Power_Platform_scalable/PowerPlatform_scalable.svg",
+      "assetVerificationStatus": "authentic-public-source",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://raw.githubusercontent.com/tomkiljo/ms-icons/main/public/icons/Power_Platform_scalable/PowerPlatform_scalable.svg",
+        "note": "Public product-identification asset; original proportions retained. Trademark rights retained."
+      },
+      "bytes": 4700,
+      "sha256": "70d888a519427955a4e76d32ec7a5102d8f3a8ea1f6738c764728e66a172241c"
+    },
+    {
+      "name": "Shopify",
+      "category": "commercial",
+      "practices": [
+        "software-engineering"
+      ],
+      "logoPath": "/technologies/simple-icons/shopify.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/shopify.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.shopify.com/brand-assets",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": "https://www.shopify.com/brand-assets",
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 1234,
+      "sha256": "a5ea31f53511bb0b3663cb73ff96eaa8d0451fe9cad586625adfc02b729e4d4d"
+    },
+    {
+      "name": "Adobe Commerce",
+      "category": "commercial",
+      "practices": [
+        "software-engineering"
+      ],
+      "logoPath": "/technologies/products/adobe-commerce.svg",
+      "logoSource": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/adobe.svg",
+      "assetVerificationStatus": "authentic-public-source",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/adobe.svg",
+        "note": "Adobe corporate mark with explicit Adobe Commerce text. Adobe retired the distinct Magento Commerce application logo; this is not a new product-specific mark."
+      },
+      "bytes": 290,
+      "sha256": "c27280899abed89c01aac44352c050fc214030d26ab9bac7dd29a82ac5b968b6"
+    },
+    {
+      "name": "ERPNext",
+      "category": "open-source",
+      "practices": [
+        "software-engineering"
+      ],
+      "logoPath": "/technologies/simple-icons/erpnext.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/erpnext.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://github.com/frappe/erpnext/blob/924911e74317f95a59f29e9410d4f141020a0411/erpnext/public/images/erpnext-logo.svg",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 310,
+      "sha256": "ffa44b9d5fa26f7933a6c6e275c930a5774d972e0e4bb7de76bc94e3f65e865a"
+    },
+    {
+      "name": "Frappe Framework",
+      "category": "open-source",
+      "practices": [
+        "software-engineering"
+      ],
+      "logoPath": "/technologies/simple-icons/frappe.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/frappe.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://github.com/frappe/frappe/blob/1331fa6f721122805d15894fa3bd9eb90dccdca2/frappe/public/images/frappe-framework-logo.svg",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 301,
+      "sha256": "c2f5174f38db7ae5e9d22693ff278702363cc052da8780e161ecf0068ebaeb7c"
+    },
+    {
+      "name": "Odoo Community",
+      "category": "open-source",
+      "practices": [
+        "software-engineering"
+      ],
+      "logoPath": "/technologies/simple-icons/odoo.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/odoo.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.odoo.com/page/brand-assets",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": "https://www.odoo.com/page/brand-assets",
+        "note": "Authentic parent platform/vendor mark accompanied by the exact requested product or edition name.",
+        "status": "acquired"
+      },
+      "bytes": 1381,
+      "sha256": "2690d23a9f3c287faa2fb08a7bd11002e309820e5a8c3ff53c0a77ab1081b50c"
+    },
+    {
+      "name": "PostgreSQL",
+      "category": "open-source",
+      "practices": [
+        "software-engineering"
+      ],
+      "logoPath": "/technologies/simple-icons/postgresql.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://wiki.postgresql.org/wiki/Logo",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": "https://www.postgresql.org/about/policies/trademarks/",
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 5205,
+      "sha256": "c8ccadbd88c9312c2ad3734c4861b31d3485ce179ee91d64793143f83cfa745c"
+    },
+    {
+      "name": "Directus",
+      "category": "open-source",
+      "practices": [
+        "software-engineering"
+      ],
+      "logoPath": "/technologies/simple-icons/directus.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/directus.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://directus.io",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 1144,
+      "sha256": "29bf6496a1f716a16fefaa99d62c63be4ed32d150a65abf9b10014c108b4d844"
+    },
+    {
+      "name": "Strapi",
+      "category": "open-source",
+      "practices": [
+        "software-engineering"
+      ],
+      "logoPath": "/technologies/simple-icons/strapi.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/strapi.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://handbook.strapi.io/strapi-brand-book-2022/strapi-logo",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": "https://handbook.strapi.io/strapi-brand-book-2022",
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 613,
+      "sha256": "7ace74e62d71799f2f9fe8b2f9398a3365cc52448792bc9361f03407b266b22f"
+    },
+    {
+      "name": "Medusa",
+      "category": "open-source",
+      "practices": [
+        "software-engineering"
+      ],
+      "logoPath": "/technologies/simple-icons/medusa.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medusa.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://github.com/medusajs/medusa/blob/5b91a3503af41b94697a5c27c35268c29e9bd135/www/docs/static/img/logo.svg",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 557,
+      "sha256": "d57990d7c791045446b3ba0abc8172464cd6504cd656a1321d1314d1a5b8e3e9"
+    },
+    {
+      "name": "WooCommerce",
+      "category": "open-source",
+      "practices": [
+        "software-engineering"
+      ],
+      "logoPath": "/technologies/simple-icons/woocommerce.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/woocommerce.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://woocommerce.com/style-guide",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": "https://woocommerce.com/trademark-guidelines",
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 3574,
+      "sha256": "3a74e2c6cc29d679cdd8eff36660f2e105ae157bb0626c53d1172d08f275704e"
+    },
+    {
+      "name": "OpenAI",
+      "category": "commercial",
+      "practices": [
+        "data-ai-automation"
+      ],
+      "logoPath": "/technologies/dashboard-icons/openai.svg",
+      "logoSource": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openai.svg",
+      "assetVerificationStatus": "authentic-public-package-asset",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openai.svg",
+        "package": "Homarr Dashboard Icons",
+        "note": "Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership."
+      },
+      "bytes": 1279,
+      "sha256": "8a6030406f34ee761c3d60dd95cc49af8c3ca1c9f45b61a3d8648d60c91cba62"
+    },
+    {
+      "name": "Anthropic",
+      "category": "commercial",
+      "practices": [
+        "data-ai-automation"
+      ],
+      "logoPath": "/technologies/simple-icons/anthropic.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.anthropic.com",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 281,
+      "sha256": "1cc599f6ebce2016dc388cf84e54a52c6b13487655c7e243554d654c7bce1882"
+    },
+    {
+      "name": "Microsoft Fabric",
+      "category": "commercial",
+      "practices": [
+        "data-ai-automation"
+      ],
+      "logoPath": "/technologies/products/microsoft-fabric.svg",
+      "logoSource": "https://raw.githubusercontent.com/tomkiljo/ms-icons/main/public/icons/Azure_UX_Patterns_icons/microsoft-fabric.svg",
+      "assetVerificationStatus": "authentic-public-source",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://raw.githubusercontent.com/tomkiljo/ms-icons/main/public/icons/Azure_UX_Patterns_icons/microsoft-fabric.svg",
+        "note": "Public product-identification asset; original proportions retained. Trademark rights retained."
+      },
+      "bytes": 9419,
+      "sha256": "21079d6265459b5043c2b4bc786a54989367a1d999e9344a339dc33b5b32ae0c"
+    },
+    {
+      "name": "Power BI",
+      "category": "commercial",
+      "practices": [
+        "data-ai-automation"
+      ],
+      "logoPath": "/technologies/dashboard-icons/powerbi.svg",
+      "logoSource": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/powerbi.svg",
+      "assetVerificationStatus": "authentic-public-package-asset",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/powerbi.svg",
+        "package": "Homarr Dashboard Icons",
+        "note": "Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership."
+      },
+      "bytes": 1777,
+      "sha256": "203571019bda54b569a1f68da782f4867e65f6ecae584d06553b1a07b53680ad"
+    },
+    {
+      "name": "Azure AI",
+      "category": "commercial",
+      "practices": [
+        "data-ai-automation"
+      ],
+      "logoPath": "/technologies/products/azure-ai.svg",
+      "logoSource": "https://raw.githubusercontent.com/tomkiljo/ms-icons/main/public/icons/Azure_Public_Service_Icons/Icons/ai%20+%20machine%20learning/10162-icon-service-Cognitive-Services.svg",
+      "assetVerificationStatus": "authentic-public-source",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://raw.githubusercontent.com/tomkiljo/ms-icons/main/public/icons/Azure_Public_Service_Icons/Icons/ai%20+%20machine%20learning/10162-icon-service-Cognitive-Services.svg",
+        "note": "Public product-identification asset; original proportions retained. Trademark rights retained."
+      },
+      "bytes": 1608,
+      "sha256": "7f1d2831085f00103df5f6fd6305bdbbbe4c4530e98831d7ce6508d236c467c2"
+    },
+    {
+      "name": "Google Cloud AI",
+      "category": "commercial",
+      "practices": [
+        "data-ai-automation"
+      ],
+      "logoPath": "/technologies/simple-icons/googlecloud.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecloud.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://cloud.google.com",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Authentic parent platform/vendor mark accompanied by the exact requested product or edition name.",
+        "status": "acquired"
+      },
+      "bytes": 683,
+      "sha256": "534a0359c2784e152f5c88ce64a56976036d7336c7831775c995977fd3432713"
+    },
+    {
+      "name": "Databricks",
+      "category": "commercial",
+      "practices": [
+        "data-ai-automation"
+      ],
+      "logoPath": "/technologies/simple-icons/databricks.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.databricks.com",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": "https://brand.databricks.com/Styleguide/Guide/",
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 422,
+      "sha256": "454aa3efdb318c655e3da2ea844e3577a9c47a20e24d20fff6489362176e5fe4"
+    },
+    {
+      "name": "Snowflake",
+      "category": "commercial",
+      "practices": [
+        "data-ai-automation"
+      ],
+      "logoPath": "/technologies/simple-icons/snowflake.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.snowflake.com/brand-guidelines/",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": "https://www.snowflake.com/brand-guidelines/",
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 2459,
+      "sha256": "75690c4c666a406278286284f89896e8ef55dd0bfbc791acb910ce40e4a46aa9"
+    },
+    {
+      "name": "NVIDIA AI Enterprise",
+      "category": "commercial",
+      "practices": [
+        "data-ai-automation"
+      ],
+      "logoPath": "/technologies/simple-icons/nvidia.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nvidia.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.nvidia.com/en-us",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Authentic parent platform/vendor mark accompanied by the exact requested product or edition name.",
+        "status": "acquired"
+      },
+      "bytes": 881,
+      "sha256": "b0e4cfc12712c840d4d630c9a717200fbd09aeeadbd3faeac13bda2e2ed050b0"
+    },
+    {
+      "name": "Apache Airflow",
+      "category": "open-source",
+      "practices": [
+        "data-ai-automation"
+      ],
+      "logoPath": "/technologies/apache/airflow.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheairflow.svg",
+      "assetVerificationStatus": "official-asset-rights-review",
+      "logoAudit": {
+        "status": "rights-review",
+        "source": "https://www.apache.org/foundation/marks/",
+        "note": "Authentic official project asset. Published automatic permission is for linked use; unlinked presentation requires RBC rights review."
+      },
+      "bytes": 23218,
+      "sha256": "d1aee652b3fda464f3ebd32a1f3e781f5046e371cd99dd20251a3a851bc40253"
+    },
+    {
+      "name": "dbt Core",
+      "category": "open-source",
+      "practices": [
+        "data-ai-automation"
+      ],
+      "logoPath": "/technologies/products/dbt-core.svg",
+      "logoSource": "https://raw.githubusercontent.com/dbt-labs/docs.getdbt.com/current/website/static/img/dbt-logo.svg",
+      "assetVerificationStatus": "authentic-public-source",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://raw.githubusercontent.com/dbt-labs/docs.getdbt.com/current/website/static/img/dbt-logo.svg",
+        "note": "Public product-identification asset; original proportions retained. Trademark rights retained."
+      },
+      "bytes": 5948,
+      "sha256": "c5ba37661581576414d0ef2758e8aa6151ca3751c940d0dbd10c1cd212fbda24"
+    },
+    {
+      "name": "Apache Spark",
+      "category": "open-source",
+      "practices": [
+        "data-ai-automation"
+      ],
+      "logoPath": "/technologies/apache/spark.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachespark.svg",
+      "assetVerificationStatus": "official-asset-rights-review",
+      "logoAudit": {
+        "status": "rights-review",
+        "source": "https://www.apache.org/foundation/marks/",
+        "note": "Authentic official project asset. Published automatic permission is for linked use; unlinked presentation requires RBC rights review."
+      },
+      "bytes": 5754,
+      "sha256": "19f38764a2d20e3cc24e7b57acf1fb16bc8a3711437232ab20f452d5bca7fdac"
+    },
+    {
+      "name": "Apache Superset",
+      "category": "open-source",
+      "practices": [
+        "data-ai-automation"
+      ],
+      "logoPath": "/technologies/simple-icons/apachesuperset.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachesuperset.svg",
+      "assetVerificationStatus": "official-asset-rights-review",
+      "logoAudit": {
+        "status": "rights-review",
+        "source": "https://www.apache.org/foundation/marks/",
+        "note": "Authentic official project asset. Published automatic permission is for linked use; unlinked presentation requires RBC rights review."
+      },
+      "bytes": 917,
+      "sha256": "1ed6d02f4cdd97eb3aef309eb68e983442d24c6bfffe71c861905dc1309593fc"
+    },
+    {
+      "name": "Metabase",
+      "category": "open-source",
+      "practices": [
+        "data-ai-automation"
+      ],
+      "logoPath": "/technologies/simple-icons/metabase.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metabase.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.metabase.com",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 3702,
+      "sha256": "28163a9fd4cbe49e39016d99a7eb8f036ecbfd0b57c92d9b3f67ede99ca2f330"
+    },
+    {
+      "name": "MLflow",
+      "category": "open-source",
+      "practices": [
+        "data-ai-automation"
+      ],
+      "logoPath": "/technologies/simple-icons/mlflow.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mlflow.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://github.com/mlflow/mlflow/blob/855881f93703b15ffe643003fb4d7c84f0ec2502/assets/icon.svg",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 353,
+      "sha256": "686679a10a6bdf1029ec4103bec15d8aec365a2be39f6b840992c597e2c76d45"
+    },
+    {
+      "name": "pgvector",
+      "category": "open-source",
+      "practices": [
+        "data-ai-automation"
+      ],
+      "logoPath": null,
+      "logoSource": null,
+      "assetVerificationStatus": "audited-exception",
+      "logoAudit": {
+        "status": "exception",
+        "source": "https://github.com/pgvector/pgvector",
+        "note": "Official project repository and the searched icon packages did not provide a distinct pgvector mark. PostgreSQL logo was not substituted."
+      }
+    },
+    {
+      "name": "Qdrant",
+      "category": "open-source",
+      "practices": [
+        "data-ai-automation"
+      ],
+      "logoPath": "/technologies/simple-icons/qdrant.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qdrant.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://qdrant.tech/img/brand-resources-logos/qdrant-brandmark-white.svg",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": "https://qdrant.tech/brand-resources/",
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 260,
+      "sha256": "c5fbbbf771648975f22973627b4eb5620c68a4f81ccfb6c21633bb1d04f9fdf1"
+    },
+    {
+      "name": "Haystack",
+      "category": "open-source",
+      "practices": [
+        "data-ai-automation"
+      ],
+      "logoPath": "/technologies/simple-icons/haystack.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/haystack.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://github.com/simple-icons/simple-icons/issues/12288#issuecomment-2567870921",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 843,
+      "sha256": "a93d22f3fdbed36b5fa98b6742049bafd9f0b4d105433fde15de1a43ec973e2b"
+    },
+    {
+      "name": "LangChain",
+      "category": "open-source",
+      "practices": [
+        "data-ai-automation"
+      ],
+      "logoPath": "/technologies/simple-icons/langchain.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.langchain.com/langchain",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 527,
+      "sha256": "7886444fa437debc26c8e9a51fd86943ad2cbc24b0f8185f15421190f48ab362"
+    },
+    {
+      "name": "LlamaIndex",
+      "category": "open-source",
+      "practices": [
+        "data-ai-automation"
+      ],
+      "logoPath": "/technologies/products/llamaindex.png",
+      "logoSource": "https://raw.githubusercontent.com/run-llama/llama_index/main/docs/src/content/docs/framework/_static/assets/LlamaLogoBrowserTab.png",
+      "assetVerificationStatus": "authentic-public-source",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://raw.githubusercontent.com/run-llama/llama_index/main/docs/src/content/docs/framework/_static/assets/LlamaLogoBrowserTab.png",
+        "note": "Public product-identification asset; original proportions retained. Trademark rights retained."
+      },
+      "bytes": 37263,
+      "sha256": "98b882fd8999eb75ea66e2337acb6d12bfe4a85ae52e32014c0f9df8a46599d5"
+    },
+    {
+      "name": "Ollama",
+      "category": "open-source",
+      "practices": [
+        "data-ai-automation"
+      ],
+      "logoPath": "/technologies/simple-icons/ollama.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://github.com/ollama/ollama/issues/2152#issuecomment-1905286922",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 4769,
+      "sha256": "9c62bf0159ee96c8b58c86a732f33b002b4b3bb165ec86e8ecca51ad6a82dab6"
+    },
+    {
+      "name": "Microsoft Azure",
+      "category": "commercial",
+      "practices": [
+        "cloud-infrastructure"
+      ],
+      "logoPath": "/technologies/dashboard-icons/microsoft-azure.svg",
+      "logoSource": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-azure.svg",
+      "assetVerificationStatus": "authentic-public-package-asset",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-azure.svg",
+        "package": "Homarr Dashboard Icons",
+        "note": "Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership."
+      },
+      "bytes": 1662,
+      "sha256": "d5b5b17973fef7855a6a759f9c9c7f747bf60e94efadc9f1755c8dadb4a105ab"
+    },
+    {
+      "name": "AWS",
+      "category": "commercial",
+      "practices": [
+        "cloud-infrastructure"
+      ],
+      "logoPath": "/technologies/dashboard-icons/amazon-web-services.svg",
+      "logoSource": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/amazon-web-services.svg",
+      "assetVerificationStatus": "authentic-public-package-asset",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/amazon-web-services.svg",
+        "package": "Homarr Dashboard Icons",
+        "note": "Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership."
+      },
+      "bytes": 2952,
+      "sha256": "3ab3e2114a4e7fca84f2da92f8ab982d9d6d304d049db0dafbd9c3f2b0e44801"
+    },
+    {
+      "name": "Google Cloud",
+      "category": "commercial",
+      "practices": [
+        "cloud-infrastructure"
+      ],
+      "logoPath": "/technologies/simple-icons/googlecloud.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecloud.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://cloud.google.com",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 683,
+      "sha256": "534a0359c2784e152f5c88ce64a56976036d7336c7831775c995977fd3432713"
+    },
+    {
+      "name": "Cisco",
+      "category": "commercial",
+      "practices": [
+        "cloud-infrastructure"
+      ],
+      "logoPath": "/technologies/simple-icons/cisco.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cisco.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.cisco.com",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 2596,
+      "sha256": "005c240c62355768860ad0bb19820033bc840ee390192c7139f8777d78291391"
+    },
+    {
+      "name": "HPE",
+      "category": "commercial",
+      "practices": [
+        "cloud-infrastructure"
+      ],
+      "logoPath": "/technologies/dashboard-icons/hpe.svg",
+      "logoSource": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hpe.svg",
+      "assetVerificationStatus": "authentic-public-package-asset",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hpe.svg",
+        "package": "Homarr Dashboard Icons",
+        "note": "Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership."
+      },
+      "bytes": 519,
+      "sha256": "18ceb6c9b927255ddad2e117eca135e7b28a6c0428f85765ce58474e47e88119"
+    },
+    {
+      "name": "Dell Technologies",
+      "category": "commercial",
+      "practices": [
+        "cloud-infrastructure"
+      ],
+      "logoPath": "/technologies/simple-icons/dell.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dell.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.dell.com",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": "https://brand.delltechnologies.com/logos/",
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 1450,
+      "sha256": "be787bc8a294cecf64f7197b36f3f095583b2274f13ab336e7dabfe582353c45"
+    },
+    {
+      "name": "Lenovo",
+      "category": "commercial",
+      "practices": [
+        "cloud-infrastructure"
+      ],
+      "logoPath": "/technologies/simple-icons/lenovo.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/lenovo.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://news.lenovo.com/press-kits/",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 1209,
+      "sha256": "6d2d3756e0b0dd70a7f8d678794b43c89eb08871a45bcd79ede8ecc64a6141ca"
+    },
+    {
+      "name": "VMware/Broadcom",
+      "category": "commercial",
+      "practices": [
+        "cloud-infrastructure"
+      ],
+      "logoPath": "/technologies/simple-icons/vmware.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vmware.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://myvmware.workspaceair.com",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 2167,
+      "sha256": "4c3970bf3955a3e95c7d9eef7f4f45528c487dffa92092ce9273913f8271029a"
+    },
+    {
+      "name": "Nutanix",
+      "category": "commercial",
+      "practices": [
+        "cloud-infrastructure"
+      ],
+      "logoPath": "/technologies/simple-icons/nutanix.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nutanix.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.nutanix.com/content/dam/nutanix/en/cmn/documents/nutanix-brandbook.pdf",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 698,
+      "sha256": "b24c39e47756d099832a3cff5cc23d3fa21e4aff38410af6062abb06c672a0d3"
+    },
+    {
+      "name": "NVIDIA",
+      "category": "commercial",
+      "practices": [
+        "cloud-infrastructure"
+      ],
+      "logoPath": "/technologies/simple-icons/nvidia.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nvidia.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.nvidia.com/en-us",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 881,
+      "sha256": "b0e4cfc12712c840d4d630c9a717200fbd09aeeadbd3faeac13bda2e2ed050b0"
+    },
+    {
+      "name": "Linux",
+      "category": "open-source",
+      "practices": [
+        "cloud-infrastructure"
+      ],
+      "logoPath": "/technologies/simple-icons/linux.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.linuxfoundation.org/the-linux-mark/",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 5463,
+      "sha256": "7e55f2779ae11a83c9dad2d0414a65d8ca7867d0716ce58bfe41ed299ae1447f"
+    },
+    {
+      "name": "Proxmox VE",
+      "category": "open-source",
+      "practices": [
+        "cloud-infrastructure"
+      ],
+      "logoPath": "/technologies/simple-icons/proxmox.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/proxmox.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.proxmox.com/en/news/media-kit",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": "https://www.proxmox.com/en/news/media-kit",
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 1488,
+      "sha256": "95b5f2bce5447030acfc03c326c396c6b768b5c95b64e53c17f8a6910e6b3df7"
+    },
+    {
+      "name": "OpenStack",
+      "category": "open-source",
+      "practices": [
+        "cloud-infrastructure"
+      ],
+      "logoPath": "/technologies/simple-icons/openstack.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openstack.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.openstack.org/brand/openstack-logo/",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": "https://www.openstack.org/brand/openstack-logo/",
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 508,
+      "sha256": "084d1f3441a385845b587d78bb21f432724ab95382b56a82ef7240a3bf146a23"
+    },
+    {
+      "name": "Kubernetes",
+      "category": "open-source",
+      "practices": [
+        "cloud-infrastructure"
+      ],
+      "logoPath": "/technologies/simple-icons/kubernetes.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kubernetes.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://github.com/kubernetes/kubernetes/tree/cac53883f4714452f3084a22e4be20d042a9df33/logo",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 3565,
+      "sha256": "ceee2f4e87fa1533600672190c156194039f744fa9b5da10e83f002178e84b47"
+    },
+    {
+      "name": "Docker",
+      "category": "open-source",
+      "practices": [
+        "cloud-infrastructure"
+      ],
+      "logoPath": "/technologies/simple-icons/docker.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.docker.com/company/newsroom/media-resources",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 1765,
+      "sha256": "65571291c261ef869c31540a38f3ca0f0ee3bb73f179c172211c8860f19a6359"
+    },
+    {
+      "name": "OpenTofu",
+      "category": "open-source",
+      "practices": [
+        "cloud-infrastructure"
+      ],
+      "logoPath": "/technologies/simple-icons/opentofu.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opentofu.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://github.com/opentofu/brand-artifacts/blob/0d4d0d6050ca0ff06471400bc3249a64c145f659/symbol-only/transparent/SVG/on-light-mono.svg",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 1415,
+      "sha256": "c706d33b7cbd4183105edac0f63a45932dce3b9b6aeaff53b90cd90d4f84bd92"
+    },
+    {
+      "name": "Ansible",
+      "category": "open-source",
+      "practices": [
+        "cloud-infrastructure"
+      ],
+      "logoPath": "/technologies/simple-icons/ansible.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ansible.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.ansible.com/logos",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 440,
+      "sha256": "dde263ada8ced6d3ce092f9046fba6224eac3afae87274d912cef45210f8fff6"
+    },
+    {
+      "name": "Prometheus",
+      "category": "open-source",
+      "practices": [
+        "cloud-infrastructure"
+      ],
+      "logoPath": "/technologies/simple-icons/prometheus.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/prometheus.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://prometheus.io",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 847,
+      "sha256": "6dd2480e57936b879f7626b7c71dcd51163da700d8510843516a66316bf8f379"
+    },
+    {
+      "name": "Grafana",
+      "category": "open-source",
+      "practices": [
+        "cloud-infrastructure"
+      ],
+      "logoPath": "/technologies/simple-icons/grafana.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/grafana.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://grafana.com",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 3817,
+      "sha256": "e6da4ab998d25d509e27ce8a1f1afcb2d549907569b6fb1e4065890877cffefa"
+    },
+    {
+      "name": "OpenTelemetry",
+      "category": "open-source",
+      "practices": [
+        "cloud-infrastructure"
+      ],
+      "logoPath": "/technologies/simple-icons/opentelemetry.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opentelemetry.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://cncf-branding.netlify.app/projects/opentelemetry/",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC-BY-4.0"
+        },
+        "guidelines": "https://cncf-branding.netlify.app/projects/opentelemetry/",
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 1279,
+      "sha256": "1e93836eeedaf02fb985130ed05c4d692c66ff56269f50af8478a219645ee741"
+    },
+    {
+      "name": "Ceph",
+      "category": "open-source",
+      "practices": [
+        "cloud-infrastructure"
+      ],
+      "logoPath": "/technologies/simple-icons/ceph.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ceph.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://github.com/ceph/ceph/blob/b106a03dcddaee80493825e85bc5e399ab4d8746/src/pybind/mgr/dashboard/frontend/src/assets/Ceph_Logo.svg",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 1852,
+      "sha256": "d86e5a80df62b084b473f06a5d5b10f87e96931c049c94862b02de7443a22f44"
+    },
+    {
+      "name": "Fortinet",
+      "category": "commercial",
+      "practices": [
+        "cybersecurity-resilience"
+      ],
+      "logoPath": "/technologies/simple-icons/fortinet.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fortinet.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.fortinet.com",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 474,
+      "sha256": "5feafff8531436630ccd7d5c2e80819ee74c1820fdba23d98057eebe02553b86"
+    },
+    {
+      "name": "Cisco Security",
+      "category": "commercial",
+      "practices": [
+        "cybersecurity-resilience"
+      ],
+      "logoPath": "/technologies/simple-icons/cisco.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cisco.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.cisco.com",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Authentic parent platform/vendor mark accompanied by the exact requested product or edition name.",
+        "status": "acquired"
+      },
+      "bytes": 2596,
+      "sha256": "005c240c62355768860ad0bb19820033bc840ee390192c7139f8777d78291391"
+    },
+    {
+      "name": "Microsoft Defender",
+      "category": "commercial",
+      "practices": [
+        "cybersecurity-resilience"
+      ],
+      "logoPath": "/technologies/dashboard-icons/microsoft-defender.svg",
+      "logoSource": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-defender.svg",
+      "assetVerificationStatus": "authentic-public-package-asset",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-defender.svg",
+        "package": "Homarr Dashboard Icons",
+        "note": "Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership."
+      },
+      "bytes": 1964,
+      "sha256": "c7d709ee0240505885a39caa789fe236b466502179496060a221fcb33134399d"
+    },
+    {
+      "name": "Microsoft Entra",
+      "category": "commercial",
+      "practices": [
+        "cybersecurity-resilience"
+      ],
+      "logoPath": "/technologies/dashboard-icons/entra-id.svg",
+      "logoSource": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/entra-id.svg",
+      "assetVerificationStatus": "authentic-public-package-asset",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/entra-id.svg",
+        "package": "Homarr Dashboard Icons",
+        "note": "Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership."
+      },
+      "bytes": 1311,
+      "sha256": "be489af7c1834c3d93fecd9c512aaabcca5f4ae001da7cf3a6445cbb4a8d1677"
+    },
+    {
+      "name": "Sophos",
+      "category": "commercial",
+      "practices": [
+        "cybersecurity-resilience"
+      ],
+      "logoPath": "/technologies/dashboard-icons/sophos.svg",
+      "logoSource": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sophos.svg",
+      "assetVerificationStatus": "authentic-public-package-asset",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sophos.svg",
+        "package": "Homarr Dashboard Icons",
+        "note": "Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership."
+      },
+      "bytes": 2494,
+      "sha256": "1dfadc3006dede2a758a9c4c4e407ea42aadb70d337b86eb565496003f5c03a9"
+    },
+    {
+      "name": "Palo Alto Networks",
+      "category": "commercial",
+      "practices": [
+        "cybersecurity-resilience"
+      ],
+      "logoPath": "/technologies/simple-icons/paloaltonetworks.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/paloaltonetworks.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.paloaltonetworks.com",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": "https://www.paloaltonetworks.com/company/brand",
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 346,
+      "sha256": "47b46a688d2117b938251c0a36568593562a07c221493f9d04bd1e0e536b1456"
+    },
+    {
+      "name": "CrowdStrike",
+      "category": "commercial",
+      "practices": [
+        "cybersecurity-resilience"
+      ],
+      "logoPath": "/technologies/dashboard-icons/crowdstrike.svg",
+      "logoSource": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/crowdstrike.svg",
+      "assetVerificationStatus": "authentic-public-package-asset",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/crowdstrike.svg",
+        "package": "Homarr Dashboard Icons",
+        "note": "Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership."
+      },
+      "bytes": 1919,
+      "sha256": "a4639cfdeaadca25af44179ef804a630f62082b62046eb9e30a718c6b30c5a93"
+    },
+    {
+      "name": "Veeam",
+      "category": "commercial",
+      "practices": [
+        "cybersecurity-resilience"
+      ],
+      "logoPath": "/technologies/simple-icons/veeam.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/veeam.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.veeam.com/newsroom/veeam-graphics.html",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 2601,
+      "sha256": "337e09a86a01772133352bceba53de9ac6af2f59a23eaed561a7e3eb2007627d"
+    },
+    {
+      "name": "Cloudflare",
+      "category": "commercial",
+      "practices": [
+        "cybersecurity-resilience"
+      ],
+      "logoPath": "/technologies/simple-icons/cloudflare.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cloudflare.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.cloudflare.com/logo/",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": "https://www.cloudflare.com/trademark/",
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 1178,
+      "sha256": "408096d99907fd99e0863cb5d73f77a72537c6a85fd8d5e2704178a83a891f08"
+    },
+    {
+      "name": "Tenable",
+      "category": "commercial",
+      "practices": [
+        "cybersecurity-resilience"
+      ],
+      "logoPath": "/technologies/dashboard-icons/tenable.svg",
+      "logoSource": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tenable.svg",
+      "assetVerificationStatus": "authentic-public-package-asset",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tenable.svg",
+        "package": "Homarr Dashboard Icons",
+        "note": "Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership."
+      },
+      "bytes": 1847,
+      "sha256": "5c3722e94d0646e90bb27ea049403aec2b44cb50ee77872c483007f177b3a95a"
+    },
+    {
+      "name": "Wazuh",
+      "category": "open-source",
+      "practices": [
+        "cybersecurity-resilience"
+      ],
+      "logoPath": "/technologies/dashboard-icons/wazuh.svg",
+      "logoSource": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wazuh.svg",
+      "assetVerificationStatus": "authentic-public-package-asset",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wazuh.svg",
+        "package": "Homarr Dashboard Icons",
+        "note": "Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership."
+      },
+      "bytes": 439,
+      "sha256": "40e251a6eea635486c0169323276f2a09670292271c4e548bf157af39edbc95c"
+    },
+    {
+      "name": "Keycloak",
+      "category": "open-source",
+      "practices": [
+        "cybersecurity-resilience"
+      ],
+      "logoPath": "/technologies/simple-icons/keycloak.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/keycloak.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://github.com/keycloak/keycloak-misc/blob/dee033f2d6d6b5c3a6ce8eb84e285f7e5626dbf6/logo/icon-black.svg",
+        "package": "Simple Icons",
+        "license": {
+          "type": "custom",
+          "url": "https://www.linuxfoundation.org/legal/trademark-usage"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 532,
+      "sha256": "19b76099675af10174406154a5c215f864ab6d30da39445ba8626ed0246470b1"
+    },
+    {
+      "name": "OpenSearch",
+      "category": "open-source",
+      "practices": [
+        "cybersecurity-resilience"
+      ],
+      "logoPath": "/technologies/simple-icons/opensearch.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opensearch.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://opensearch.org/trademark-brand-policy.html",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": "https://opensearch.org/trademark-brand-policy.html",
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 860,
+      "sha256": "592db3a9af1d67d31831a9973ad311ef6e958071084cf2134cc2703db1750ecb"
+    },
+    {
+      "name": "Security Onion",
+      "category": "open-source",
+      "practices": [
+        "cybersecurity-resilience"
+      ],
+      "logoPath": "/technologies/dashboard-icons/security-onion.svg",
+      "logoSource": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/security-onion.svg",
+      "assetVerificationStatus": "authentic-public-package-asset",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/security-onion.svg",
+        "package": "Homarr Dashboard Icons",
+        "note": "Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership."
+      },
+      "bytes": 7166,
+      "sha256": "6ed13473ff938f56576e3fb8c333bcb88cc3192387e67f9b978db11b2886f9e1"
+    },
+    {
+      "name": "Suricata",
+      "category": "open-source",
+      "practices": [
+        "cybersecurity-resilience"
+      ],
+      "logoPath": null,
+      "logoSource": null,
+      "assetVerificationStatus": "audited-exception",
+      "logoAudit": {
+        "status": "exception",
+        "source": "https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-horiz-R.png",
+        "note": "Official logo URL discovered, but download returned HTML rather than image data; branding page also requests permission. No access controls bypassed."
+      }
+    },
+    {
+      "name": "Zeek",
+      "category": "open-source",
+      "practices": [
+        "cybersecurity-resilience"
+      ],
+      "logoPath": "/technologies/products/zeek.png",
+      "logoSource": "https://zeek.org/wp-content/themes/zeek/resources/images/logo.png",
+      "assetVerificationStatus": "authentic-public-source",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://zeek.org/wp-content/themes/zeek/resources/images/logo.png",
+        "note": "Public product-identification asset; original proportions retained. Trademark rights retained."
+      },
+      "bytes": 8229,
+      "sha256": "7cc6ad13459cd440113694e7277581aa77495422b22484dfae9fe0bfd7fbf3df"
+    },
+    {
+      "name": "OWASP ZAP",
+      "category": "open-source",
+      "practices": [
+        "cybersecurity-resilience"
+      ],
+      "logoPath": "/technologies/simple-icons/zap.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/zap.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.zaproxy.org",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": null,
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 1111,
+      "sha256": "a708b66fc74e8bbb8e0296f845de3b761fab068a6e425f8c74a17e0930f8968e"
+    },
+    {
+      "name": "Trivy",
+      "category": "open-source",
+      "practices": [
+        "cybersecurity-resilience"
+      ],
+      "logoPath": "/technologies/simple-icons/trivy.svg",
+      "logoSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/trivy.svg",
+      "assetVerificationStatus": "authentic-package-source-reviewed",
+      "logoAudit": {
+        "source": "https://www.aquasec.com/brand",
+        "package": "Simple Icons",
+        "license": {
+          "type": "CC0 package; trademarks retained"
+        },
+        "guidelines": "https://www.aquasec.com/brand",
+        "note": "Product identification only; no endorsement or partnership claim.",
+        "status": "acquired"
+      },
+      "bytes": 1682,
+      "sha256": "bef45d7760bb16e6d3379921220cd31753e8e3fbb6523066b166fcc9c8c8456d"
+    },
+    {
+      "name": "Greenbone/OpenVAS",
+      "category": "open-source",
+      "practices": [
+        "cybersecurity-resilience"
+      ],
+      "logoPath": "/technologies/dashboard-icons/openvas.svg",
+      "logoSource": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openvas.svg",
+      "assetVerificationStatus": "authentic-public-package-asset",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openvas.svg",
+        "package": "Homarr Dashboard Icons",
+        "note": "Public product-identification asset; trademark rights retained. Not evidence of an RBC partnership."
+      },
+      "bytes": 17753,
+      "sha256": "d2edaddb0dc89fdb516925ad64193e39cd4ff6031fc9ff675145fbdf3dd83357"
+    },
+    {
+      "name": "Velociraptor",
+      "category": "open-source",
+      "practices": [
+        "cybersecurity-resilience"
+      ],
+      "logoPath": "/technologies/products/velociraptor.svg",
+      "logoSource": "https://docs.velociraptor.app/images/logo_bare_small.svg",
+      "assetVerificationStatus": "authentic-public-source",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://docs.velociraptor.app/images/logo_bare_small.svg",
+        "note": "Public product-identification asset; original proportions retained. Trademark rights retained."
+      },
+      "bytes": 9394,
+      "sha256": "c2caca99a3ea560655793cca0e777fa3d0d7c834a146b2e9b3a82f61d1c42356"
+    },
+    {
+      "name": "TOGAF",
+      "category": "framework",
+      "practices": [
+        "technology-advisory"
+      ],
+      "logoPath": "/technologies/products/togaf.png",
+      "logoSource": "https://www.opengroup.org/sites/default/files/togaf92-logo.png",
+      "assetVerificationStatus": "authentic-public-source",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://www.opengroup.org/sites/default/files/togaf92-logo.png",
+        "note": "Public product-identification asset; original proportions retained. Trademark rights retained."
+      },
+      "bytes": 102357,
+      "sha256": "291a27c40e7a9e4e6f48c7875e419f646800e9dd126d9cfa8c7fbb6758e5cde0"
+    },
+    {
+      "name": "ArchiMate",
+      "category": "framework",
+      "practices": [
+        "technology-advisory"
+      ],
+      "logoPath": null,
+      "logoSource": null,
+      "assetVerificationStatus": "audited-exception",
+      "logoAudit": {
+        "status": "exception",
+        "source": "https://www.opengroup.org/archimate-forum",
+        "note": "Official page assets inspected. Available banner/1-pixel asset is not a usable standalone mark. Certification badges and the unrelated Archi tool logo were excluded."
+      }
+    },
+    {
+      "name": "COBIT",
+      "category": "framework",
+      "practices": [
+        "technology-advisory"
+      ],
+      "logoPath": null,
+      "logoSource": null,
+      "assetVerificationStatus": "audited-exception",
+      "logoAudit": {
+        "status": "exception",
+        "source": "https://www.isaca.org/about-us/cobit-usage-guidelines",
+        "note": "ISACA explicitly requires prior written permission for COBIT logos in marketing. No certification badge or unrelated COBIT-named product substituted."
+      }
+    },
+    {
+      "name": "ITIL",
+      "category": "framework",
+      "practices": [
+        "technology-advisory"
+      ],
+      "logoPath": "/technologies/products/itil.svg",
+      "logoSource": "https://www.peoplecert.org/-/media/folders-reorganized/images/peoplecert-logos-official/product-brand-logos/itil/itil-logo-svg.svg",
+      "assetVerificationStatus": "authentic-public-source",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://www.peoplecert.org/-/media/folders-reorganized/images/peoplecert-logos-official/product-brand-logos/itil/itil-logo-svg.svg",
+        "note": "Public product-identification asset; original proportions retained. Trademark rights retained."
+      },
+      "bytes": 2197,
+      "sha256": "4d166a4a6b09605e9153310a8886a69091bc635874490a8135a81d8322af15bb"
+    },
+    {
+      "name": "BPMN",
+      "category": "framework",
+      "practices": [
+        "technology-advisory"
+      ],
+      "logoPath": "/technologies/products/bpmn.svg",
+      "logoSource": "https://www.omg.org/images/logos/BPMN-logo.svg",
+      "assetVerificationStatus": "official-public-asset",
+      "logoAudit": {
+        "status": "acquired",
+        "source": "https://www.omg.org/images/logos/BPMN-logo.svg",
+        "note": "Official public product mark; trademark rights retained."
+      },
+      "bytes": 3603,
+      "sha256": "97a59d05f47609dd221a561f542a116a62c4e6fa1b685e85a2c11b0fd58a4a7c"
+    },
+    {
+      "name": "C4 modelling",
+      "category": "framework",
+      "practices": [
+        "technology-advisory"
+      ],
+      "logoPath": null,
+      "logoSource": null,
+      "assetVerificationStatus": "audited-exception",
+      "logoAudit": {
+        "status": "exception",
+        "source": "https://c4model.com/",
+        "note": "Official site and icon packages inspected; no distinct authentic framework logo located. Book cover and architecture diagrams were not treated as logos."
+      }
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+RBC-007D internal follow-up
+Privacy: confirm actual delivery provider, retention period, lawful basis, applicable rights and hosting practices. No unconfirmed legal terms were invented for the public notice. Existing factual form disclosures were retained.
+Technology assets: provenance, prior rights findings and unresolved assets remain in logo-audit.json and ASSET_SOURCES.txt. Removing public research copy does not establish vendor relationships or resolve existing logo-use conditions.
+No approved case studies or actual demo videos exist in the content data. Demo placeholders were removed; no fictional replacements were added.

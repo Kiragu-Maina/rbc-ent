@@ -1,0 +1,87 @@
+TECHNOLOGY ASSET ATTRIBUTIONS
+Technology names and marks are the property of their respective owners.
+Apache project names and logos are trademarks of the Apache Software Foundation.
+OpenTelemetry artwork: CC-BY-4.0; https://creativecommons.org/licenses/by/4.0/
+Simple Icons: https://github.com/simple-icons/simple-icons (CC0 package; individual brand rights retained).
+Homarr Dashboard Icons: https://github.com/homarr-labs/dashboard-icons (individual brand rights retained).
+
+Microsoft Dynamics 365 — https://raw.githubusercontent.com/tomkiljo/ms-icons/main/public/icons/Dynamics_365_Icons_scalable/Dynamics%20365%20Product%20Family%20Icon/Dynamics365_scalable.svg
+SAP — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sap.svg
+Oracle — https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oracle.svg
+Odoo — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/odoo.svg
+Zoho — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/zoho.svg
+Salesforce — https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/salesforce.svg
+Microsoft Power Platform — https://raw.githubusercontent.com/tomkiljo/ms-icons/main/public/icons/Power_Platform_scalable/PowerPlatform_scalable.svg
+Shopify — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/shopify.svg
+Adobe Commerce — https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/adobe.svg
+ERPNext — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/erpnext.svg
+Frappe Framework — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/frappe.svg
+Odoo Community — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/odoo.svg
+PostgreSQL — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg
+Directus — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/directus.svg
+Strapi — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/strapi.svg
+Medusa — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medusa.svg
+WooCommerce — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/woocommerce.svg
+OpenAI — https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openai.svg
+Anthropic — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg
+Microsoft Fabric — https://raw.githubusercontent.com/tomkiljo/ms-icons/main/public/icons/Azure_UX_Patterns_icons/microsoft-fabric.svg
+Power BI — https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/powerbi.svg
+Azure AI — https://raw.githubusercontent.com/tomkiljo/ms-icons/main/public/icons/Azure_Public_Service_Icons/Icons/ai%20+%20machine%20learning/10162-icon-service-Cognitive-Services.svg
+Google Cloud AI — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecloud.svg
+Databricks — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg
+Snowflake — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg
+NVIDIA AI Enterprise — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nvidia.svg
+Apache Airflow — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheairflow.svg
+dbt Core — https://raw.githubusercontent.com/dbt-labs/docs.getdbt.com/current/website/static/img/dbt-logo.svg
+Apache Spark — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachespark.svg
+Apache Superset — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachesuperset.svg
+Metabase — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metabase.svg
+MLflow — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mlflow.svg
+Qdrant — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qdrant.svg
+Haystack — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/haystack.svg
+LangChain — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg
+LlamaIndex — https://raw.githubusercontent.com/run-llama/llama_index/main/docs/src/content/docs/framework/_static/assets/LlamaLogoBrowserTab.png
+Ollama — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg
+Microsoft Azure — https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-azure.svg
+AWS — https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/amazon-web-services.svg
+Google Cloud — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecloud.svg
+Cisco — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cisco.svg
+HPE — https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hpe.svg
+Dell Technologies — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dell.svg
+Lenovo — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/lenovo.svg
+VMware/Broadcom — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vmware.svg
+Nutanix — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nutanix.svg
+NVIDIA — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nvidia.svg
+Linux — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg
+Proxmox VE — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/proxmox.svg
+OpenStack — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openstack.svg
+Kubernetes — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kubernetes.svg
+Docker — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg
+OpenTofu — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opentofu.svg
+Ansible — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ansible.svg
+Prometheus — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/prometheus.svg
+Grafana — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/grafana.svg
+OpenTelemetry — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opentelemetry.svg
+Ceph — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ceph.svg
+Fortinet — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fortinet.svg
+Cisco Security — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cisco.svg
+Microsoft Defender — https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-defender.svg
+Microsoft Entra — https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/entra-id.svg
+Sophos — https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sophos.svg
+Palo Alto Networks — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/paloaltonetworks.svg
+CrowdStrike — https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/crowdstrike.svg
+Veeam — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/veeam.svg
+Cloudflare — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cloudflare.svg
+Tenable — https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tenable.svg
+Wazuh — https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wazuh.svg
+Keycloak — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/keycloak.svg
+OpenSearch — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opensearch.svg
+Security Onion — https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/security-onion.svg
+Zeek — https://zeek.org/wp-content/themes/zeek/resources/images/logo.png
+OWASP ZAP — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/zap.svg
+Trivy — https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/trivy.svg
+Greenbone/OpenVAS — https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openvas.svg
+Velociraptor — https://docs.velociraptor.app/images/logo_bare_small.svg
+TOGAF — https://www.opengroup.org/sites/default/files/togaf92-logo.png
+ITIL — https://www.peoplecert.org/-/media/folders-reorganized/images/peoplecert-logos-official/product-brand-logos/itil/itil-logo-svg.svg
+BPMN — https://www.omg.org/images/logos/BPMN-logo.svg
