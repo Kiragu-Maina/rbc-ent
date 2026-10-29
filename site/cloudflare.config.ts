@@ -2,7 +2,7 @@ import { bindings, defineConfig, defineWorker } from "cf/config";
 
 export default defineConfig({
   worker: defineWorker({
-    name: "rbc-ent",
+    name: "rbc-ent-worker",
     entrypoint: "vinext/server/fetch-handler",
     compatibilityDate: "2026-10-29",
     compatibilityFlags: ["nodejs_compat"],
