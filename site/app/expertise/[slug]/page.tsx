@@ -4,14 +4,19 @@ import {notFound} from 'next/navigation';
 import {services} from '@/lib/content';
 import {practiceDetails} from '@/lib/practices';
 import {SectionLabel,TextLink} from '@/components/site';
-import {SystemsSculpture} from '@/components/systems';
 import {TechnologyEcosystem} from '@/components/technology-ecosystem';
 import {portfolios} from '@/lib/portfolios';
 import styles from './practice.module.css';
+const practiceArtwork:Record<string,{src:string;alt:string}> = {
+  'data-ai-automation':{src:'/rbc-intelligence.svg',alt:'Intelligence architecture connecting data pipelines, analytics, AI models, document intelligence, AI assistants, forecasting and decision support.'},
+  'cloud-infrastructure':{src:'/rbc-infrastructure-cloud-platforms.svg',alt:'Infrastructure architecture connecting cloud, compute, storage, networking, DevOps, monitoring and platform engineering.'},
+  'cybersecurity-resilience':{src:'/rbc-cybersecurity-resilience.svg',alt:'Security and resilience architecture connecting identity, network, endpoint and cloud security with monitoring, backup and recovery.'},
+  'technology-advisory':{src:'/rbc-advisory.svg',alt:'Advisory architecture connecting strategy, enterprise architecture, roadmaps, governance, procurement and transformation.'},
+};
 export function generateStaticParams(){return services.map(s=>({slug:s.slug}));}
 export async function generateMetadata({params}:{params:Promise<{slug:string}>}):Promise<Metadata>{const {slug}=await params;const s=services.find(s=>s.slug===slug);const p=practiceDetails[slug];return s&&p?{title:s.discipline,description:p.introduction,alternates:{canonical:`/expertise/${slug}`}}:{title:'Practice not found'};}
-export default async function PracticePage({params}:{params:Promise<{slug:string}>}){const {slug}=await params;const s=services.find(s=>s.slug===slug);const p=practiceDetails[slug];if(!s||!p)notFound();const portfolio=portfolios[slug];const enquiry=`/contact?service=${s.slug}`;return <main id="main">
-<section className="wrap service-page-intro"><div><p className="eyebrow"><span className="dot"/>Practices / {s.number}</p><h1>{s.title}</h1><h2 className={styles.headline}>{p.headline}</h2><p>{p.introduction}</p><TextLink href={enquiry}>{p.cta}</TextLink></div><div className={`service-page-art discipline-${Number(s.number)-1}`}><SystemsSculpture/></div></section>
+export default async function PracticePage({params}:{params:Promise<{slug:string}>}){const {slug}=await params;const s=services.find(s=>s.slug===slug);const p=practiceDetails[slug];if(!s||!p)notFound();const portfolio=portfolios[slug];const artwork=practiceArtwork[slug];const enquiry=`/contact?service=${s.slug}`;return <main id="main">
+<section className={`wrap service-page-intro ${slug!=='software-engineering'?styles.integratedHero:''}`}><div><p className="eyebrow"><span className="dot"/>Practices / {s.number}</p><h1>{s.title}</h1><h2 className={styles.headline}>{p.headline}</h2><p>{p.introduction}</p><TextLink href={enquiry}>{p.cta}</TextLink></div><div className={`service-page-art ${slug==='software-engineering'?`discipline-0 ${styles.enterpriseArtwork}`:styles.practiceArtwork}`}>{slug==='software-engineering'?<img src="/rbc-enterprise-systems.svg" width="1448" height="1086" loading="eager" alt="Enterprise Systems illustration showing ERP, CRM, HRMS, commerce and bespoke applications connected through integrations and APIs."/>:<img src={artwork.src} width="1448" height="1086" loading="eager" alt={artwork.alt}/>}</div></section>
 <section className="wrap service-problem section-space"><div className="editorial-two"><div><SectionLabel number="01">Practice overview</SectionLabel><h2>Connecting technology with business needs.</h2></div><p>{p.overview}</p></div></section>
 <section className="deliverables section-space"><div className="wrap"><SectionLabel number="02">Services and capabilities</SectionLabel><h2>Capabilities for your enterprise.</h2><div className={styles.families}>{p.families.map((f,i)=><article className={styles.family} key={f.title}><small>0{i+1}</small><div><h3>{f.title}</h3><p>{f.description}</p></div><ul>{f.services.map(t=><li key={t}>{t}</li>)}</ul></article>)}</div></div></section>
 <section className="wrap section-space"><div className="editorial-two"><div><SectionLabel number="03">Enterprise solutions</SectionLabel><h2>Start with what your business needs.</h2></div><div className={styles.solutions}>{p.solutions.map(t=><TextLink href={enquiry} key={t}>{t}</TextLink>)}</div></div></section>
